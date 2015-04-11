@@ -16,6 +16,7 @@ Library code looks uggly, API is awful, but with this you can write movement-bas
 		- Common use case: remove units or add effects
 	- Enum units in certain AoE when unit hits target location.
 
+This library just works. It have been widely tested over 55k games (40 min of average each one) on the map Naruto Wars Unlimited (AoS) http://narutowarsunlimited.com/
 
 # Usage (TODO)
 
